@@ -1,10 +1,10 @@
 ## Sneha's pagedown rendered CV
 
-This repo contains the source-code and results of my CV built with the [pagedown package](https://pagedown.rbind.io) and a modified version of the 'resume' template. 
+This repo contains the source-code and results of my resume built with the [pagedown package](https://pagedown.rbind.io) and a modified version of the 'resume' template. 
 
 The main files are:
 
-  - `index.Rmd`: Source template for the cv, contains a variable `PDF_EXPORT` in the header that changes styles for pdf vs html. 
+  - `index.Rmd`: Source template for the resume, contains a variable `PDF_EXPORT` in the header that changes styles for pdf vs html. 
   - `index.html`: The final output of the template when the header variable `PDF_EXPORT` is set to `FALSE`. 
   - `skannan_resume.pdf`: The final exported pdf as rendered by Chrome on my computer. 
   - `parsing_functions.R`: A series of small functions for parsing a position entry into the proper HTML format. Includes logic for removing links if needed etc..
