@@ -1,4 +1,4 @@
-## Sneha's pagedown rendered CV
+## Sneha's pagedown rendered Resume
 
 This repo contains the source-code and results of my resume built with the [pagedown package](https://pagedown.rbind.io) and a modified version of the 'resume' template. 
 
