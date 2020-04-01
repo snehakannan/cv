@@ -85,11 +85,11 @@ Aside
 Contact {#contact}
 --------------------------------------------------------------------------------
 
-<!-- - <i class="fa fa-envelope"></i>  -->
-<!-- - <i class="fa fa-link"></i> []() -->
-- <i class="fa fa-github"></i> [snehakannan](http://github.com/snehakannan)
-<!-- - <i class="fa fa-phone"></i> -->
-- <i class="fa fa-linkedin"></i> [snehakannan](https://www.linkedin.com/in/sneha-kannan/)
+<!--- <i class="fa fa-envelope"></i> -->
+- <i class="fa fa-link"></i> [Website](https://fittingthecurve.netlify.com/)
+- <i class="fa fa-github"></i> [Github](http://github.com/snehakannan)
+<!--- <i class="fa fa-phone"></i> -->
+- <i class="fa fa-linkedin"></i> [Linkedin](https://www.linkedin.com/in/sneha-kannan/)
 
 
 Skills {#skills}
